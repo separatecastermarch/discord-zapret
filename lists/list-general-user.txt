@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# separatecastermarch/discord-zapret a1393cb9c4e9
